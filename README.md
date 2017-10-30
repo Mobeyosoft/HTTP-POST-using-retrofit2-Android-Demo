@@ -1,9 +1,8 @@
 # HTTP-POST-using-retrofit2-Android-Demo
 
-
-
-![Alt text](https://github.com/Mobeyosoft/HTTP-POST-using-retrofit2-Android-Demo/blob/master/scr.png
-)
+<p align="center">
+  <img src="https://github.com/Mobeyosoft/HTTP-POST-using-retrofit2-Android-Demo/blob/master/scr.png" width="350"/>
+</p>
 
 Http POST request to your REST API using retofit2 library
 
